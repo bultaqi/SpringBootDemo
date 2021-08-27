@@ -1,0 +1,4 @@
+// This is an example of an N-Tier architecture design pattern
+// N-Tier, or Multilayer, divides an application into three completely separate layers
+// 1.) Logic tier 2.) Presentation tier 3.) Data tier
+// This differentiates from the MVC because it's separation is only in concept
